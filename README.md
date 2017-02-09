@@ -1,5 +1,4 @@
-Interview Preparation: Python
-Jiefu Gong
+# Interview Preparation: Python
 ======================================
 
 ## Purpose  
@@ -21,7 +20,7 @@ This README will serve as a central point where I will manage solving interview 
 
 ## Linked Lists
 <a name="LinkedList-Reorder"></a><a name="7.1"></a>
-- **[7.1](#LinkedList-Reorder) Given a singly linked list like: $$L_o = L_1 \rightarrow L_2 \rightarrow ... \rightarrow L_{n-1} \rightarrow L_{n}$$ rearrange it into: $$L_o = L_1 \rightarrow L_n \rightarrow L_2 \rightarrow L_{n-1} \rightarrow ...$$**
+- **[7.1](#LinkedList-Reorder) Given a singly linked list like: $L_o = L_1 \rightarrow L_2 \rightarrow ... \rightarrow L_{n-1} \rightarrow L_{n}$ rearrange it into: $L_o = L_1 \rightarrow L_n \rightarrow L_2 \rightarrow L_{n-1} \rightarrow ...$**
 
 ```python
 def reorderList(self, head):
